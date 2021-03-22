@@ -7,7 +7,7 @@ int32_t main(){
 
   vector<pair<int,int>> factors;         //  pair will store  prime factor and its power
 
-  int count;
+  int c;
   for(int i=2;i*i<=n;i++)
   {
         count=0;
